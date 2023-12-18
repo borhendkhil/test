@@ -1,3 +1,3 @@
-String x = "hh"
-String y= "gg"
+Stri x = "hh"
+String y= "ff"
 String z="hh"
