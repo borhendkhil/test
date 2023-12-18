@@ -1,2 +1,3 @@
 String x = "hh"
 String y= "hh"
+String z="hh"s
